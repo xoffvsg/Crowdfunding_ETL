@@ -60,7 +60,7 @@ Lastly, we verify that the relationships between the tables is correct by runnin
 <img width="1120" alt="JOIN_results_multitables" src="https://github.com/xoffvsg/Crowdfunding_ETL/assets/141395221/53e4409a-21c8-4e80-95ed-2bd612e0c0b6">
 
 <br>
-We verify that the results is consistent with the information included in a sample of the row data.<br><br>
+We verify that the result is consistent with the information included in a sample of the row data.<br><br>
 <img width="1166" alt="database_verification" src="https://github.com/xoffvsg/Crowdfunding_ETL/assets/141395221/a46a180f-aa48-48a1-913d-edb3c009daed">
 
 
