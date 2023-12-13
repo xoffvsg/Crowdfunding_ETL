@@ -7,7 +7,7 @@ In this project, we will apply the Extract, Transform, Load pipeline (ETL) to cr
 The first file (<b><i>Resources\crowdfunding.xlsx</i></b>) contains 15 columns and 1001 rows including headers. The second Excel file (<b><i>Resources\contacts.xlsx</i></b>) contains the contact details of the person managing each individual project in a single column.<br><br>
 We will curate these two files to generate four CSV files:<br>
 
-  * a [<i>Resources\campaign.csv</i>](https://github.com/xoffvsg/Crowdfunding_ETL/blob/main/Resources/campaign.csv) file that contains the fields we are interested in, including unique identifiers to the the project managers, the category of the project, and the subcategory of the project.
+  * a [<i>Resources\campaign.csv</i>](https://github.com/xoffvsg/Crowdfunding_ETL/blob/main/Resources/campaign.csv) file that contains the fields we are interested in, including unique identifiers to the project managers, the category of the project, and the subcategory of the project.
   * a [<i>Resources\category.csv</i>](https://github.com/xoffvsg/Crowdfunding_ETL/blob/main/Resources/category.csv) file that contains the name of each category with its unique identifier.
   * a [<i>Resources\subcategory.csv</i>](https://github.com/xoffvsg/Crowdfunding_ETL/blob/main/Resources/subcategory.csv) file that contains the name of each subcategory with its unique identifier.
   * a [<i>Resources\contacts.csv</i>](https://github.com/xoffvsg/Crowdfunding_ETL/blob/main/Resources/contacts.csv) file that contains the contact details of each project manager with his/her unique identifier.
