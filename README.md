@@ -56,7 +56,7 @@ We then import the data from the CSV files to their respective tables and verify
 
 <br><br>
 
-Lastly, we verify that the relationships between the tables is correct by running a query across multiple tables.<br><br>
+Lastly, we verify that the relationships between the tables are correct by running a query across multiple tables.<br><br>
 <img width="1120" alt="JOIN_results_multitables" src="https://github.com/xoffvsg/Crowdfunding_ETL/assets/141395221/53e4409a-21c8-4e80-95ed-2bd612e0c0b6">
 
 <br>
